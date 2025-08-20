@@ -1,6 +1,21 @@
-Fully decompiled MCP for Minecraft 1.8.9. 
-There were made no changes made in the files.
+MCP - Mod Coder Pack
+MCP is (c) Copyright by the MCP Team
 
-When you open this using Eclipse setting workspace path to ./eclipse/, it'll be ready to work with!
+License and terms of use.
 
-If you have any questions about this repo, ask them here: https://discord.gg/yaftWcn
+No warranties. If MCP does not work for you, or causes any damage, it's your problem. Use it at own risk.
+
+You are allowed to:
+- Use MCP to decompile the Minecraft client and server jar files.
+- Use the decompiled source code to create mods for Minecraft.
+- Recompile modified versions of Minecraft.
+- Reobfuscate the classes of your mod for Minecraft.
+
+You are NOT allowed to:
+- Use MCP to do anything that violated Mojangs terms of use for Minecraft.
+- Release Minecraft versions or modifications that allow you to play without having bought Minecraft from Mojang.
+- Release modified or unmodified versions of MCP anywhere.
+- Use any of MCPs scripts, tools or data files without explicit written permission.
+- Make money with anything based on MCP (excluding Minecraft mods created by using MCP).
+- Use MCP to create clients that are used for griefing or exploiting server bugs.
+- Release the decompiled source code of Minecraft in any way.
